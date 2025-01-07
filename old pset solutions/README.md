@@ -9,4 +9,4 @@ themselves may be found here: https://ocw.mit.edu/courses/8-512-theory-of-solids
 relations, conductivity in the small and large mean free path regimes, derivation of Kubo formula from Fermi's golden rule). 
 
 **Mathematical aside relevant to problem set 6**: https://hackmd.io/@aligho/Bywoh-QIkl These notes go through the derivation of an integral used to find the static 
-orbital magnetic susceptibility. 
+orbital magnetic susceptibility. There is also a discussion about a typo in the book by Grosso...
