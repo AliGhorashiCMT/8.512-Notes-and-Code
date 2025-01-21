@@ -8,6 +8,8 @@ themselves may be found here: https://ocw.mit.edu/courses/8-512-theory-of-solids
 
 **Fluctuation/dissipation theorem and part of Problem set 1**: https://hackmd.io/@aligho/HyE7sOBPJe 
 
+**Neutron scattering**: https://hackmd.io/@aligho/HJ3xxUaDye
+
 **Notes on EELS (Problem set 2, question 1)**: https://hackmd.io/@aligho/r1FlakUvkl (includes derivations of equations in the original paper by Frohlich). Mean free path, EELS spectrum in the classical and quantum formulations. Comparison of real space vs momentum space cutoffs in the classical formulation. Application of the fluctuation-dissipation theorem. 
 
 **Problem set 2, question 2a, b thorough discussion**: https://hackmd.io/@aligho/r1UF4xoIJx (Goes well beyond the problem, including a discussion of local field effects).
