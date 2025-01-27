@@ -19,3 +19,5 @@ relations, conductivity in the small and large mean free path regimes, derivatio
 
 **Mathematical aside relevant to problem set 6**: https://hackmd.io/@aligho/Bywoh-QIkl These notes go through the derivation of an integral used to find the static 
 orbital magnetic susceptibility. There is also a discussion about a typo in the book by Grosso...
+
+**Spin susceptibility and problem set 10**: https://hackmd.io/@aligho/H1BhlIZ_kx
