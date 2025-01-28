@@ -21,3 +21,5 @@ relations, conductivity in the small and large mean free path regimes, derivatio
 orbital magnetic susceptibility. There is also a discussion about a typo in the book by Grosso...
 
 **Spin susceptibility and problem set 10**: https://hackmd.io/@aligho/H1BhlIZ_kx
+
+**Interacting spin susceptibility, ladder diagrams, bubble diagrams and problem set 12**: https://hackmd.io/@aligho/HyisdIrOJx
