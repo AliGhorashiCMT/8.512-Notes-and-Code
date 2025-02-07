@@ -22,6 +22,8 @@ orbital magnetic susceptibility. There is also a discussion about a typo in the 
 
 **Problem set 6 solutions**: https://hackmd.io/@aligho/ryLZ2ohr1g 
 
+**Longitudinal vector potentials as gauge transformations**: Relevant to problem set 6, where the response to a transverse vector potential is calculated. https://hackmd.io/@aligho/B12odkXF1e 
+
 **Spin susceptibility and problem set 10**: https://hackmd.io/@aligho/H1BhlIZ_kx
 
 **Interacting spin susceptibility, ladder diagrams, bubble diagrams and problem set 12**: https://hackmd.io/@aligho/HyisdIrOJx
