@@ -23,7 +23,7 @@ orbital magnetic susceptibility. There is also a discussion about a typo in the 
 **Problem set 6 solutions**: https://hackmd.io/@aligho/ryLZ2ohr1g 
 
 **Longitudinal vector potentials as gauge transformations**: Relevant to problem set 6, where the response to a transverse vector potential is calculated. https://hackmd.io/@aligho/B12odkXF1e, explicit calculation for the free electron gas: https://hackmd.io/@aligho/r1bMPlVFyx General cancellation of longitudinal 
-diamagnetic and paramagnetic currents: https://hackmd.io/@aligho/r1qVBGBt1l 
+diamagnetic and paramagnetic currents: https://hackmd.io/@aligho/r1qVBGBt1l Derivation at nonzero frequency and subsequently taking the static limit: https://hackmd.io/@aligho/rkN6PyDYJe
 
 **Spin susceptibility and problem set 10**: https://hackmd.io/@aligho/H1BhlIZ_kx
 
