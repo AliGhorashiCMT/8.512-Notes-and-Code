@@ -22,6 +22,8 @@ orbital magnetic susceptibility. There is also a discussion about a typo in the 
 
 **Problem set 6 solutions**: https://hackmd.io/@aligho/ryLZ2ohr1g 
 
+**Evaluation of the real part of the transverse conductivity and rederiving Landau diamagnetism through the Kramers-Kronig relations**: https://hackmd.io/@aligho/rJ1Nj1OOkx
+
 **Longitudinal vector potentials as gauge transformations**: Relevant to problem set 6, where the response to a transverse vector potential is calculated. https://hackmd.io/@aligho/B12odkXF1e, explicit calculation for the free electron gas: https://hackmd.io/@aligho/r1bMPlVFyx General cancellation of longitudinal 
 diamagnetic and paramagnetic currents: https://hackmd.io/@aligho/r1qVBGBt1l Derivation at nonzero frequency and subsequently taking the static limit: https://hackmd.io/@aligho/rkN6PyDYJe
 
