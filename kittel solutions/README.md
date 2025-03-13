@@ -4,3 +4,5 @@
 **Problems concerning superconductivity**: https://hackmd.io/@aligho/S1poYJ-oyx
 
 **Problems concerning magnetism**: https://hackmd.io/@aligho/H1bsmTQsJl
+
+**Problems concerning ferroelectricity**: https://hackmd.io/@aligho/S1W37Eynkx
