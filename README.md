@@ -14,7 +14,7 @@ Hamiltonians).
 
 **Week 4**: Includes **HW2** and **HW4** solutions. HW2 involves topics related to superfluidity: deriving the Gross-Pitaevski equation, obtaining an order-of-magnitude estimate for the critical velocity of superfluid flow. HW4 involves topics related to superconductiviy and is the first of three problem sets that concern superconductivity. HW4 covers the London equations--deriving them from the diamagnetic current density as well as from the Landau-Ginzburg formalism. 
 
-**Week 5**: Includes **HW5** solutions. 
+**Week 5**: Includes **HW5** solutions. HW5 covers the Josephson effect and derivation of superconducting critical temperatures. 
 
 **week_after_cleo**: Includes **HW10**, **HW11**, **HW12** solutions. HW10 covers the Peierls instability (also covered in 8.511 notes) and Brownian motion. HW11 covers the Kramers-Kronig relations as well as sum rules derived from these relations. HW12 covers applications of the fluctuation-dissipation theorem. 
 
