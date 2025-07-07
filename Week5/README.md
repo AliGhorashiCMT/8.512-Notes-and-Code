@@ -1,6 +1,8 @@
 
+## HackMD notes
 
-**Perfect diamagnetism of BCS state**: https://hackmd.io/@aligho/ByHMLZDh1l (also discussion of vortices)
+ **Perfect diamagnetism of BCS state**: 
+  https://hackmd.io/@aligho/ByHMLZDh1l (also discussion of vortices)
 
 ## Problem set solutions
 
