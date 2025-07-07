@@ -7,16 +7,18 @@ These solutions will be made private after the completion of the Spring term (ma
 ## Folder structure 
 The folder structure is somewhat different from that of the 8.511 repository. Instead of delineating folders by topics, they are, instead, primarily delineated chronologically (separated by week). The reason for this is that some topics don't fit nicely into a given category and having many small folders for subtopics becomes cumbersome (for instance, you could imagine categorizing Landau diamagnetism as a subtopic of linear response, quantum oscillations, quantum geometry, magnetism, etc...). There are a few exceptions to this general rule, described below
 
-**Week 2**: Includes HW1 solutions. HW1 deals with Bosonic and Fermionic creation and annihilation operators, in particular their properties under basis transformations (relevant in e.g. diagonalizing tight binding
+**Week 2**: Includes **HW1** solutions. HW1 deals with Bosonic and Fermionic creation and annihilation operators, in particular their properties under basis transformations (relevant in e.g. diagonalizing tight binding
 Hamiltonians).
 
 **Week 3**: 
 
-**Week 4**: Includes HW2 and HW4 solutions. HW2 involves topics related to superfluidity: deriving the Gross-Pitaevski equation, obtaining an order-of-magnitude estimate for the critical velocity of superfluid flow. HW4 involves topics related to superconductiviy and is the first of three problem sets that concern superconductivity. HW4 covers the London equations--deriving them from the diamagnetic current density as well as from the Landau-Ginzburg formalism. 
+**Week 4**: Includes **HW2** and **HW4** solutions. HW2 involves topics related to superfluidity: deriving the Gross-Pitaevski equation, obtaining an order-of-magnitude estimate for the critical velocity of superfluid flow. HW4 involves topics related to superconductiviy and is the first of three problem sets that concern superconductivity. HW4 covers the London equations--deriving them from the diamagnetic current density as well as from the Landau-Ginzburg formalism. 
 
-**week_after_cleo**: 
+**Week 5**: Includes **HW5** solutions. 
 
-**week_after_writing_dissertation**:
+**week_after_cleo**: Includes **Hw10**, **HW11**, **HW12** solutions. 
+
+**week_after_writing_dissertation**: Includes **HW8** and **HW9** solutions. 
 
  **old pset solutions**: Solutions to 8.512 problem sets used in previous years (when Patrick Lee taught the class). 
  
