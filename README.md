@@ -16,7 +16,7 @@ Hamiltonians).
 
 **Week 5**: Includes **HW5** solutions. 
 
-**week_after_cleo**: Includes **Hw10**, **HW11**, **HW12** solutions. 
+**week_after_cleo**: Includes **HW10**, **HW11**, **HW12** solutions. HW10 covers the Peierls instability (also covered in 8.511 notes) and Brownian motion. HW11 covers the Kramers-Kronig relations as well as sum rules derived from these relations. HW12 covers applications of the fluctuation-dissipation theorem. 
 
 **week_after_writing_dissertation**: Includes **HW8** and **HW9** solutions. HW8 covers classical and quantum polarizabilities and Friedel oscillations at zero and non-zero temperatures. HW9 covers plasmons and magnetoplasmons (surface magnetoplasmons in 3D and edge magnetoplasmons in 2D).  
 
