@@ -1,6 +1,11 @@
-**Problem Set 10 Solution Manual**: https://hackmd.io/@aligho/S1fhvC1gge
+## Problem set solutions
 
-**Problem Set 11 Solution Manual**: https://hackmd.io/@aligho/H1Ts1Nbxxe
+  **Problem Set 10 Solution Manual**: 
+    https://hackmd.io/@aligho/S1fhvC1gge
 
-**Problem set 12 Solution Manual**: https://hackmd.io/@aligho/SJqvSogWex
+  **Problem Set 11 Solution Manual**: 
+    https://hackmd.io/@aligho/H1Ts1Nbxxe
+
+  **Problem set 12 Solution Manual**: 
+    https://hackmd.io/@aligho/SJqvSogWex
 
