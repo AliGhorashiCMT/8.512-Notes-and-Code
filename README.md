@@ -20,6 +20,8 @@ Hamiltonians).
 
 **week_after_writing_dissertation**: Includes **HW8** and **HW9** solutions. HW8 covers classical and quantum polarizabilities and Friedel oscillations at zero and non-zero temperatures. HW9 covers plasmons and magnetoplasmons (surface magnetoplasmons in 3D and edge magnetoplasmons in 2D).  
 
+**week_after_semester**: Includes **HW7** solutions. 
+
  **old pset solutions**: Solutions to 8.512 problem sets used in previous years (when Patrick Lee taught the class). 
  
  **kittel solutions**: Solutions to a selection of problems from Kittel's book. Primarily used for examples during recitations. 
