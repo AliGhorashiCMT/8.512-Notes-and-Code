@@ -10,7 +10,7 @@ The folder structure is somewhat different from that of the 8.511 repository. In
 **Week 2**: Includes **HW1** solutions. HW1 deals with Bosonic and Fermionic creation and annihilation operators, in particular their properties under basis transformations (relevant in e.g. diagonalizing tight binding
 Hamiltonians).
 
-**Week 3**: 
+**Week 3**: Feynman wavefunction ansatz for the excitation spectrum of a superfluid. 
 
 **Week 4**: Includes **HW2** and **HW4** solutions. HW2 involves topics related to superfluidity: deriving the Gross-Pitaevski equation, obtaining an order-of-magnitude estimate for the critical velocity of superfluid flow. HW4 involves topics related to superconductiviy and is the first of three problem sets that concern superconductivity. HW4 covers the London equations--deriving them from the diamagnetic current density as well as from the Landau-Ginzburg formalism. 
 
