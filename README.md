@@ -20,7 +20,7 @@ Hamiltonians).
 
 **week_after_writing_dissertation**: Includes **HW8** and **HW9** solutions. HW8 covers classical and quantum polarizabilities and Friedel oscillations at zero and non-zero temperatures. HW9 covers plasmons and magnetoplasmons (surface magnetoplasmons in 3D and edge magnetoplasmons in 2D).  
 
-**week_after_semester**: Includes **HW6** and **HW7** solutions. 
+**week_after_semester**: Includes **HW6** and **HW7** solutions. **HW6** and **HW7** cover the BCS theory of superconductivity (as well as its consequences, e.g. heat capacity of a superconductor and self-consistency equation for the superconducting gap). 
 
  **old pset solutions**: Solutions to 8.512 problem sets used in previous years (when Patrick Lee taught the class). 
  
