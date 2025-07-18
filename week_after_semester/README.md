@@ -1,4 +1,7 @@
 ## Problem set solutions
+  **Problem set 3 solution set**: 
+    https://hackmd.io/@aligho/HybKCESUlx
+    
   **Problem set 6 solution set**: 
     https://hackmd.io/@aligho/SyDR3pWLeg (derivation of gap equation, energy of the BCS state, gap equation for unconventional pairing)
     
