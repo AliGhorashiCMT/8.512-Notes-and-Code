@@ -8,3 +8,6 @@
   **Problem set 7 solution set**: 
     https://hackmd.io/@aligho/SyYpxNoBlg (heat capacity of conventional and unconventional superconductors, relationship between critical temperature and superconducting gap at zero temperature, Anderson-Higgs mechanism). 
   
+## Description of jupyter notebooks 
+
+  **superconductor_finite_temperature_ratio.ipynb**: Numerical evaluation of the ratio of the superconducting gap to the critical temperature. 
