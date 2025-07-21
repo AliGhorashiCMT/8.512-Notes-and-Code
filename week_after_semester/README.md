@@ -11,3 +11,5 @@
 ## Description of jupyter notebooks 
 
   **superconductor_finite_temperature_ratio.ipynb**: Numerical evaluation of the ratio of the superconducting gap to the critical temperature. 
+  
+  **peierls_finite_temperature_find_mu.ipynb**, **peierls_finite_temperature.ipynb**: Numerical evaluation of the Peierls transition temperature. 
